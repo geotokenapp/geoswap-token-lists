@@ -1,5 +1,5 @@
 {
-  "name": "@apeswapfinance/token-lists",
+  "name": "@geoswap/token-lists",
   "version": "1.0.230",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ApeSwapFinance/apeswap-token-lists.git"
+    "url": "git+https://github.com/geotokenapp/geoswap-token-lists"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ApeSwapFinance/apeswap-token-lists/issues"
+    "url": "https://github.com/geotokenapp/geoswap-token-lists/issues"
   },
-  "homepage": "https://github.com/ApeSwapFinance/apeswap-token-lists#readme"
+  "homepage": "https://github.com/geotokenapp/geoswap-token-lists"
 }
