@@ -1,5 +1,5 @@
 {
-  "name": "ApeSwap Default List",
+  "name": "GeoSwap Default List",
   "timestamp": "2021-06-20T15:41:29.665Z",
   "version": {
     "major": 2,
@@ -7,7 +7,7 @@
     "patch": 2
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/apeswap-ape.svg",
+  "logoURI": "https://raw.githubusercontent.com/geotokenapp/geoswap-token-lists/main/geoswap-earth.svg",
   "keywords": [
     "apeswap",
     "default"
